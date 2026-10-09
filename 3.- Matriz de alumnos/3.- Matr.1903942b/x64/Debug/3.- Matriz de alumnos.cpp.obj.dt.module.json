@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "3.- Matr.1903942b\\x64\\Debug\\3.- Matriz de alumnos.obj",
+            "outputs": [
+                "3.- Matr.1903942b\\x64\\Debug\\3.- Matriz de alumnos.cpp.obj.dt.module.json",
+                "3.- Matr.1903942b\\x64\\Debug\\3.- Matriz de alumnos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
