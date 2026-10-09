@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "4.- Ingr.2a7c34d4\\x64\\Debug\\4.- Ingresos de supermercado.obj",
+            "outputs": [
+                "4.- Ingr.2a7c34d4\\x64\\Debug\\4.- Ingresos de supermercado.cpp.obj.dt.module.json",
+                "4.- Ingr.2a7c34d4\\x64\\Debug\\4.- Ingresos de supermercado.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
