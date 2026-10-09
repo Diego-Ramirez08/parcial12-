@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Promedio.df01d9d8\\x64\\Debug\\Promedio en grupo.obj",
+            "outputs": [
+                "Promedio.df01d9d8\\x64\\Debug\\Promedio en grupo.cpp.obj.dt.module.json",
+                "Promedio.df01d9d8\\x64\\Debug\\Promedio en grupo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
