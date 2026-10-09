@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "5.-  Sep.24f1849a\\x64\\Debug\\5.-  Separar nombre completo.obj",
+            "outputs": [
+                "5.-  Sep.24f1849a\\x64\\Debug\\5.-  Separar nombre completo.cpp.obj.dt.module.json",
+                "5.-  Sep.24f1849a\\x64\\Debug\\5.-  Separar nombre completo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
