@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "8.- Prov.22c6b74a\\x64\\Debug\\8.- Provoca y corrige un error de memoria.obj",
+            "outputs": [
+                "8.- Prov.22c6b74a\\x64\\Debug\\8.- Provoca y corrige un error de memoria.cpp.obj.dt.module.json",
+                "8.- Prov.22c6b74a\\x64\\Debug\\8.- Provoca y corrige un error de memoria.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
