@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "7.- Inte.a23a1918\\x64\\Debug\\7.- Intercambio por referencia.obj",
+            "outputs": [
+                "7.- Inte.a23a1918\\x64\\Debug\\7.- Intercambio por referencia.cpp.obj.dt.module.json",
+                "7.- Inte.a23a1918\\x64\\Debug\\7.- Intercambio por referencia.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
