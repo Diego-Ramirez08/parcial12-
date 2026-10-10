@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "6.- Stru.bd31b505\\x64\\Debug\\6.- Struct alumno.obj",
+            "outputs": [
+                "6.- Stru.bd31b505\\x64\\Debug\\6.- Struct alumno.cpp.obj.dt.module.json",
+                "6.- Stru.bd31b505\\x64\\Debug\\6.- Struct alumno.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
